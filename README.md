@@ -102,3 +102,4 @@ ________________________________________
 IV. Kết luận
 Dự án "Coal or Candy?" không chỉ mang tính giải trí mà còn truyền tải thông điệp về hành vi tốt xấu trong mùa lễ hội. Chúng em hy vọng trò chơi sẽ mang lại niềm vui cho người chơi, đồng thời rèn luyện kỹ năng lập trình và làm việc nhóm hiệu quả.
 
+Open the main.exe to play.
